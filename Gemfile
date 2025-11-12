@@ -7,6 +7,7 @@ gemspec
 group :development do
   gem 'pry'
   gem 'yard-lint'
+  gem 'ruby-lsp'
 end
 
 group :test do
